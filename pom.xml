@@ -4,7 +4,7 @@
 
 	<groupId>org.liquibase.ext.db2i</groupId>
 	<artifactId>liquibase-db2i</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>liquibase-db2i</name>
